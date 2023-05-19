@@ -35,16 +35,13 @@ body{
 
 .pimenta-div{
     width: 35%;
+    color: white;
 }
 
 .pimentabiquinho-titulo{
     padding: 24px 0;
     color: rgb(255, 255, 255);
-}
-
-.pimenta-div{
-    color: white;
-}
+}.
 
 .Pimentabiquinho-texto-um{
     color: white;
