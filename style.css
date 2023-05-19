@@ -44,5 +44,6 @@ body{
 
 .Pimentabiquinho-texto-um{
     padding: 24px 0;
-    color: rgb(81, 236, 10);
+    <font color="#800080">Também chamada pimenta de bico, ela pertence à mesma espécie das pimentas habanero, de-cheiro, bode, cumari-do-Pará e murupi. Todas essas pimentas são muito aromáticas e saborosas, mas o ardor pode ser bem suave (leve), como na biquinho ou muito picante (intenso) como na habanero.</font>
+   ;
 }
