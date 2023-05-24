@@ -28,7 +28,8 @@ body{
 .pimentabiquinho{
     background-image: linear-gradient(#424E61,#4ebfe9);
      display: flex;
-     justify-content: center;
+    justify-content: center;
+    align-items: center;
     padding: 24px 0;
 }
 
@@ -41,3 +42,4 @@ body{
     padding: 30px 0;
     color: rgb(255, 255, 255);
 }.
+
