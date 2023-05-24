@@ -44,6 +44,5 @@ body{
 }.
 
 .Pimentabiquinho-titulo{
-    align-items: center;
-display: flex;
+    margin: 0px 100px 100px 0px;
 }
