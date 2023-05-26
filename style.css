@@ -22,7 +22,7 @@ body{
 }
 
 .Gelia-pimenta{
-    width: 15%;
+    width: 10%;
 }
 
 .pimentabiquinho{
@@ -47,4 +47,7 @@ body{
 }
 .amandinha{
     justify-content: baseline;
+}
+.danilo{
+    justify-content: left;
 }
