@@ -1,6 +1,6 @@
 .cabecalho {
     background-color: #ebeef3;
-    color: white;
+    color: rgb(12, 5, 5);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -22,7 +22,7 @@ body{
 }
 
 .Gelia-pimentinha{
-    width: 05%;
+    width: 5%;
 }
 
 .pimentabiquinho{
@@ -53,4 +53,7 @@ body{
 }
 .Pimentabiquinho-texto-um{
     font-size:40px;
+}
+.Pimentabiquinho-texto-dois{
+    font-size: 40px;
 }
